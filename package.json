@@ -1,8 +1,6 @@
 {
   "name": "handpose",
-  "homepage": "https://npoptomov.github.io/RealTimeBodySegmentation",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@mediapipe/selfie_segmentation": "^0.1.1675465747",
     "@tensorflow-models/body-pix": "^2.2.0",
