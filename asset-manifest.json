@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/RealTimeBodySegmentation-master/static/css/main.d1b05096.chunk.css",
-    "main.js": "/RealTimeBodySegmentation-master/static/js/main.b7289b2d.chunk.js",
-    "main.js.map": "/RealTimeBodySegmentation-master/static/js/main.b7289b2d.chunk.js.map",
+    "main.css": "/RealTimeBodySegmentation-master/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/RealTimeBodySegmentation-master/static/js/main.559c4976.chunk.js",
+    "main.js.map": "/RealTimeBodySegmentation-master/static/js/main.559c4976.chunk.js.map",
     "runtime-main.js": "/RealTimeBodySegmentation-master/static/js/runtime-main.d5ba8de1.js",
     "runtime-main.js.map": "/RealTimeBodySegmentation-master/static/js/runtime-main.d5ba8de1.js.map",
     "static/css/2.f0e33c08.chunk.css": "/RealTimeBodySegmentation-master/static/css/2.f0e33c08.chunk.css",
-    "static/js/2.591436a9.chunk.js": "/RealTimeBodySegmentation-master/static/js/2.591436a9.chunk.js",
-    "static/js/2.591436a9.chunk.js.map": "/RealTimeBodySegmentation-master/static/js/2.591436a9.chunk.js.map",
+    "static/js/2.9f2a88a3.chunk.js": "/RealTimeBodySegmentation-master/static/js/2.9f2a88a3.chunk.js",
+    "static/js/2.9f2a88a3.chunk.js.map": "/RealTimeBodySegmentation-master/static/js/2.9f2a88a3.chunk.js.map",
     "index.html": "/RealTimeBodySegmentation-master/index.html",
-    "precache-manifest.956b302f73359e07da22111d59bc66b0.js": "/RealTimeBodySegmentation-master/precache-manifest.956b302f73359e07da22111d59bc66b0.js",
+    "precache-manifest.f13711b9bb44d00c1a85f08705f0c29b.js": "/RealTimeBodySegmentation-master/precache-manifest.f13711b9bb44d00c1a85f08705f0c29b.js",
     "service-worker.js": "/RealTimeBodySegmentation-master/service-worker.js",
     "static/css/2.f0e33c08.chunk.css.map": "/RealTimeBodySegmentation-master/static/css/2.f0e33c08.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/RealTimeBodySegmentation-master/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.591436a9.chunk.js.LICENSE.txt": "/RealTimeBodySegmentation-master/static/js/2.591436a9.chunk.js.LICENSE.txt",
-    "static/js/main.b7289b2d.chunk.js.LICENSE.txt": "/RealTimeBodySegmentation-master/static/js/main.b7289b2d.chunk.js.LICENSE.txt",
+    "static/css/main.8ab6f918.chunk.css.map": "/RealTimeBodySegmentation-master/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.9f2a88a3.chunk.js.LICENSE.txt": "/RealTimeBodySegmentation-master/static/js/2.9f2a88a3.chunk.js.LICENSE.txt",
+    "static/js/main.559c4976.chunk.js.LICENSE.txt": "/RealTimeBodySegmentation-master/static/js/main.559c4976.chunk.js.LICENSE.txt",
     "static/media/human.jpg": "/RealTimeBodySegmentation-master/static/media/human.3823b0be.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d5ba8de1.js",
     "static/css/2.f0e33c08.chunk.css",
-    "static/js/2.591436a9.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.b7289b2d.chunk.js"
+    "static/js/2.9f2a88a3.chunk.js",
+    "static/css/main.8ab6f918.chunk.css",
+    "static/js/main.559c4976.chunk.js"
   ]
 }

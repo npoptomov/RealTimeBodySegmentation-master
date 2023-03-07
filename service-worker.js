@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RealTimeBodySegmentation-master/precache-manifest.956b302f73359e07da22111d59bc66b0.js"
+  "/RealTimeBodySegmentation-master/precache-manifest.f13711b9bb44d00c1a85f08705f0c29b.js"
 );
 
 self.addEventListener('message', (event) => {
