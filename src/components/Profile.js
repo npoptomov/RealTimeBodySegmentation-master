@@ -79,7 +79,7 @@ const Profile = () => {
     const leftAnkle = person.allPoses[0].keypoints[15].position;
     const rightAnkle = person.allPoses[0].keypoints[16].position;
 
-    setVisina((leftAnkle.y - leftEye.y) * 0.5);
+    setVisina((leftAnkle.y - leftEye.y) * 0.5 * 1.04);
     setKolkovi((leftHip.x - rightHip.x) * 2);
     setStruk((leftWrist.x - rightWrist.x) * 0.5 * 2);
     setGradi((leftElbow.x - rightElbow.x) * 0.5 * 2);
